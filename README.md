@@ -8,11 +8,7 @@ It demonstrates skills in web scraping, data cleaning, pandas, and BeautifulSoup
 
 This project scrapes:
 
-✔ All tables from Wikipedia
-✔ Extracts table headers & rows
-✔ Cleans the data
-✔ Saves each table into separate CSV files
-✔ Displays DataFrames inside Jupyter Notebook
+✔ All tables from Wikipedia ✔ Extracts table headers & rows ✔ Cleans the data ✔ Saves each table into separate CSV files ✔ Displays DataFrames inside Jupyter Notebook
 
 It’s perfect for learning and showcasing web scraping skills.
 
